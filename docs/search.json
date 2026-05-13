@@ -4,7 +4,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website was created as part of my AAI1001 Data Engineering and Visualization Week 02 lab.\nThe purpose of this website is to practise creating and publishing a simple personal website using:\n\nQuarto\nRStudio\nGit\nGitHub\nGitHub Pages\n\n\n\nThrough this lab, I learned how a Quarto website is structured using files such as:\n\n_quarto.yml for website settings\nindex.qmd for the homepage\nabout.qmd for an additional page\nstyles.css for basic styling\ndocs/ for the rendered website output\n\n\n\n\nThe most confusing part was understanding the link between my local RStudio project, the GitHub repository, and the live website.\nAt first, I also found it confusing that editing a .qmd file alone was not enough. I had to render the website again so that the updated HTML files were created inside the docs/ folder.\n\n\n\nThis lab helped me understand how websites can be built from simple markdown-style files and published online. It also gave me practice using GitHub Pages to host a website publicly.\n\nOverall, this was a useful introduction to combining content, code, styling, and version control in one workflow."
+  },
+  {
+    "objectID": "about.html#what-i-learned",
+    "href": "about.html#what-i-learned",
+    "title": "About",
+    "section": "",
+    "text": "Through this lab, I learned how a Quarto website is structured using files such as:\n\n_quarto.yml for website settings\nindex.qmd for the homepage\nabout.qmd for an additional page\nstyles.css for basic styling\ndocs/ for the rendered website output"
+  },
+  {
+    "objectID": "about.html#what-was-challenging",
+    "href": "about.html#what-was-challenging",
+    "title": "About",
+    "section": "",
+    "text": "The most confusing part was understanding the link between my local RStudio project, the GitHub repository, and the live website.\nAt first, I also found it confusing that editing a .qmd file alone was not enough. I had to render the website again so that the updated HTML files were created inside the docs/ folder."
+  },
+  {
+    "objectID": "about.html#reflection",
+    "href": "about.html#reflection",
+    "title": "About",
+    "section": "",
+    "text": "This lab helped me understand how websites can be built from simple markdown-style files and published online. It also gave me practice using GitHub Pages to host a website publicly.\n\nOverall, this was a useful introduction to combining content, code, styling, and version control in one workflow."
   },
   {
     "objectID": "index.html",
