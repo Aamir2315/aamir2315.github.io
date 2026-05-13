@@ -2,8 +2,36 @@
 title: "About"
 ---
 
-About this site
+# About This Website
 
-```{r}
-1 + 1
-```
+This website was created as part of my **AAI1001 Data Engineering and Visualization** Week 02 lab.
+
+The purpose of this website is to practise creating and publishing a simple personal website using:
+
+- Quarto
+- RStudio
+- Git
+- GitHub
+- GitHub Pages
+
+## What I Learned
+
+Through this lab, I learned how a Quarto website is structured using files such as:
+
+- `_quarto.yml` for website settings
+- `index.qmd` for the homepage
+- `about.qmd` for an additional page
+- `styles.css` for basic styling
+- `docs/` for the rendered website output
+
+## What Was Challenging
+
+The most confusing part was understanding the link between my local RStudio project, the GitHub repository, and the live website.
+
+At first, I also found it confusing that editing a `.qmd` file alone was not enough. I had to render the website again so that the updated HTML files were created inside the `docs/` folder.
+
+## Reflection
+
+This lab helped me understand how websites can be built from simple markdown-style files and published online. It also gave me practice using GitHub Pages to host a website publicly.
+
+> Overall, this was a useful introduction to combining content, code, styling, and version control in one workflow.
