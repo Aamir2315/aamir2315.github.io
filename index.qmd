@@ -1,11 +1,78 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Hi, I'm Aamir
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website for **AAI1001 Data Engineering and Visualization**.
 
-```{r}
-1 + 1
-```
+I am currently studying at the **Singapore Institute of Technology (SIT)**, where I am learning more about programming, data engineering, visualisation, and how digital tools can be used to communicate ideas clearly.
+
+This website was created using **Quarto**, **RStudio**, **Git**, and **GitHub Pages**.
+
+---
+
+## A Small Photo Gallery
+
+These are some photos I took at **Bird Paradise**. I chose to include them because they represent my interest in observing details, colours, and visual composition — something that also connects well with data visualisation.
+
+::: {.columns}
+
+::: {.column width="33%"}
+![Bird Paradise photo 1](images/bird1.jpg)
+:::
+
+::: {.column width="33%"}
+![Bird Paradise photo 2](images/bird2.jpg)
+:::
+
+::: {.column width="33%"}
+![Bird Paradise photo 3](images/bird3.jpg)
+:::
+
+:::
+
+---
+
+## About Me
+
+I enjoy working with technology and learning how things are built, whether it is through programming, design, or hands-on projects.
+
+Some areas I am currently exploring include:
+
+- **R programming** for data analysis
+- **Quarto** for creating documents and websites
+- **Git and GitHub** for version control
+- **Data visualisation** to present information clearly
+- **Object-oriented programming** through Java-based projects
+
+Outside of school, I am also interested in motorcycles, cars, photography, and tech-related projects.
+
+---
+
+## What I Am Working On
+
+So far, my academic work has involved different types of projects, including:
+
+- building a reusable **abstract game engine** using Java and LibGDX
+- learning how to manage code using **GitHub**
+- creating reports and documentation for technical projects
+- exploring data tools through this new module
+- practising how to present information through visual and written formats
+
+This website will act as a small portfolio and learning space as I continue through the trimester.
+
+---
+
+## Why This Website Matters
+
+Creating this website helps me understand how technical content can be presented online in a clean and accessible way.
+
+It also gives me a place to document:
+
+1. what I learn in this module,
+2. projects I work on,
+3. reflections from labs,
+4. and examples of data visualisation work.
+
+> This website is still a work in progress, but it represents the beginning of my learning journey in data engineering and visualisation.

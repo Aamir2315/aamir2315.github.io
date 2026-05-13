@@ -1,9 +1,44 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website for AAI1001 Data Engineering and Visualization.\nI am currently studying at the Singapore Institute of Technology (SIT), where I am learning more about programming, data engineering, visualisation, and how digital tools can be used to communicate ideas clearly.\nThis website was created using Quarto, RStudio, Git, and GitHub Pages.\n\n\n\nThese are some photos I took at Bird Paradise. I chose to include them because they represent my interest in observing details, colours, and visual composition — something that also connects well with data visualisation.\n\n\n\n\n\nBird Paradise photo 1\n\n\n\n\n\n\nBird Paradise photo 2\n\n\n\n\n\n\nBird Paradise photo 3\n\n\n\n\n\n\n\n\nI enjoy working with technology and learning how things are built, whether it is through programming, design, or hands-on projects.\nSome areas I am currently exploring include:\n\nR programming for data analysis\nQuarto for creating documents and websites\nGit and GitHub for version control\nData visualisation to present information clearly\nObject-oriented programming through Java-based projects\n\nOutside of school, I am also interested in motorcycles, cars, photography, and tech-related projects.\n\n\n\n\nSo far, my academic work has involved different types of projects, including:\n\nbuilding a reusable abstract game engine using Java and LibGDX\nlearning how to manage code using GitHub\ncreating reports and documentation for technical projects\nexploring data tools through this new module\npractising how to present information through visual and written formats\n\nThis website will act as a small portfolio and learning space as I continue through the trimester.\n\n\n\n\nCreating this website helps me understand how technical content can be presented online in a clean and accessible way.\nIt also gives me a place to document:\n\nwhat I learn in this module,\nprojects I work on,\nreflections from labs,\nand examples of data visualisation work.\n\n\nThis website is still a work in progress, but it represents the beginning of my learning journey in data engineering and visualisation."
+  },
+  {
+    "objectID": "index.html#a-small-photo-gallery",
+    "href": "index.html#a-small-photo-gallery",
+    "title": "Home",
+    "section": "",
+    "text": "These are some photos I took at Bird Paradise. I chose to include them because they represent my interest in observing details, colours, and visual composition — something that also connects well with data visualisation.\n\n\n\n\n\nBird Paradise photo 1\n\n\n\n\n\n\nBird Paradise photo 2\n\n\n\n\n\n\nBird Paradise photo 3"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "I enjoy working with technology and learning how things are built, whether it is through programming, design, or hands-on projects.\nSome areas I am currently exploring include:\n\nR programming for data analysis\nQuarto for creating documents and websites\nGit and GitHub for version control\nData visualisation to present information clearly\nObject-oriented programming through Java-based projects\n\nOutside of school, I am also interested in motorcycles, cars, photography, and tech-related projects."
+  },
+  {
+    "objectID": "index.html#what-i-am-working-on",
+    "href": "index.html#what-i-am-working-on",
+    "title": "Home",
+    "section": "",
+    "text": "So far, my academic work has involved different types of projects, including:\n\nbuilding a reusable abstract game engine using Java and LibGDX\nlearning how to manage code using GitHub\ncreating reports and documentation for technical projects\nexploring data tools through this new module\npractising how to present information through visual and written formats\n\nThis website will act as a small portfolio and learning space as I continue through the trimester."
+  },
+  {
+    "objectID": "index.html#why-this-website-matters",
+    "href": "index.html#why-this-website-matters",
+    "title": "Home",
+    "section": "",
+    "text": "Creating this website helps me understand how technical content can be presented online in a clean and accessible way.\nIt also gives me a place to document:\n\nwhat I learn in this module,\nprojects I work on,\nreflections from labs,\nand examples of data visualisation work.\n\n\nThis website is still a work in progress, but it represents the beginning of my learning journey in data engineering and visualisation."
   }
 ]
